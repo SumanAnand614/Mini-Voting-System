@@ -1,4 +1,4 @@
-Mini Voting System Using C Language
+**Mini Voting System Using C Language**
 
 -> Allows us to set up a flexible and trustworthy voting system
 
